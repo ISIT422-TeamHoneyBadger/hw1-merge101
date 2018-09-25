@@ -13,9 +13,9 @@ import { MyButtonComponent } from './my-button/my-button.component';
   declarations: [
     AppComponent,
     SimpletextComponent,
-    RandomColorComponent
+    RandomColorComponent,
     CalculateComponent,
-    SuperCalculateComponent
+    SuperCalculateComponent,
     MyButtonComponent
   ],
   imports: [
