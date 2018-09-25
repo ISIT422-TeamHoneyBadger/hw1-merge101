@@ -5,12 +5,14 @@ import { FormsModule } from '@angular/forms';
 import { AppComponent } from './app.component';
 import { SimpletextComponent } from './simpletext/simpletext.component';
 import { CalculateComponent } from './calculate/calculate.component';
+import { MyButtonComponent } from './my-button/my-button.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     SimpletextComponent,
-    CalculateComponent
+    CalculateComponent,
+    MyButtonComponent
   ],
   imports: [
     BrowserModule,
